@@ -5,6 +5,6 @@ WEBMASTER
 Junio 2024
 
 
-CREDENCIALES: 
-  CORREO: admin@example.com
+CREDENCIALES: <br>
+  CORREO: admin@example.com <br>
   PASSWORD: admin123
